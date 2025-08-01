@@ -5,8 +5,6 @@ This project contains Playwright end-to-end tests for the [Sauce Demo](https://w
 ## Project Structure
 - `tests/` - Main test suite for Sauce Demo features
   - `saucedemo-cart-total.spec.ts`: Validates cart total matches sum of product prices
-  - `saucedemo-grid-items.spec.ts`: Validates grid items against expected JSON data
-  - `saucedemo-sidebar-items.spec.ts`: Validates sidebar menu items after login
 - `resources/` - Test data and expected results
   - `expected-grid-items.json`: Reference data for grid item validation
 - `playwright.config.ts` - Playwright configuration
