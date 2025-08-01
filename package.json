@@ -1,0 +1,23 @@
+{
+  "name": "playwright-mcp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugenS21/playwright-mcp-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EugenS21/playwright-mcp-demo/issues"
+  },
+  "homepage": "https://github.com/EugenS21/playwright-mcp-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.1.0"
+  }
+}
